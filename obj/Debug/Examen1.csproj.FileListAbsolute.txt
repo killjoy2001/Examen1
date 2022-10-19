@@ -1,0 +1,8 @@
+C:\Users\kenny\OneDrive\Escritorio\Programación II\Examen1\bin\Debug\Examen1.exe.config
+C:\Users\kenny\OneDrive\Escritorio\Programación II\Examen1\bin\Debug\Examen1.exe
+C:\Users\kenny\OneDrive\Escritorio\Programación II\Examen1\bin\Debug\Examen1.pdb
+C:\Users\kenny\OneDrive\Escritorio\Programación II\Examen1\obj\Debug\Examen1.csproj.AssemblyReference.cache
+C:\Users\kenny\OneDrive\Escritorio\Programación II\Examen1\obj\Debug\Examen1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenny\OneDrive\Escritorio\Programación II\Examen1\obj\Debug\Examen1.csproj.CoreCompileInputs.cache
+C:\Users\kenny\OneDrive\Escritorio\Programación II\Examen1\obj\Debug\Examen1.exe
+C:\Users\kenny\OneDrive\Escritorio\Programación II\Examen1\obj\Debug\Examen1.pdb
